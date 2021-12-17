@@ -1,0 +1,31 @@
+{
+  "name": "EggInAction  #1",
+  "description": "EggInAction",
+  "image": "https://sungat1n.github.io/shell/images/1.png",
+  "dna": "9467029b14df06ba0f16d28812ffe522d574f317",
+  "edition": 1,
+  "date": 1639722995691,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "black"
+    },
+    {
+      "trait_type": "suit",
+      "value": "MrBeast"
+    },
+    {
+      "trait_type": "skin",
+      "value": "aano3"
+    },
+    {
+      "trait_type": "eye",
+      "value": "katsuro hamasaki"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    }
+  ],
+  "compiler": "EggInAction"
+}

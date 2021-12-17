@@ -1,0 +1,126 @@
+[
+  {
+    "name": "EggInAction  #1",
+    "description": "EggInAction",
+    "image": "https://sungat1n.github.io/shell/images/1.png",
+    "dna": "9467029b14df06ba0f16d28812ffe522d574f317",
+    "edition": 1,
+    "date": 1639722995691,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "black"
+      },
+      {
+        "trait_type": "suit",
+        "value": "MrBeast"
+      },
+      {
+        "trait_type": "skin",
+        "value": "aano3"
+      },
+      {
+        "trait_type": "eye",
+        "value": "katsuro hamasaki"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "smile"
+      }
+    ],
+    "compiler": "EggInAction"
+  },
+{
+    "name": "EggInAction  #4946",
+    "description": "EggInAction",
+    "image": "https://sungat1n2.github.io/shell2/images/4946.png",
+    "dna": "f6c53fc346e8ad82ec14ec684c84a201363a8ad2",
+    "edition": 4946,
+    "date": 1639728902660,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "suit",
+        "value": "black peaked suit jacket"
+      },
+      {
+        "trait_type": "skin",
+        "value": "matches"
+      },
+      {
+        "trait_type": "eye",
+        "value": "seijo kodomo"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "happy"
+      }
+    ],
+    "compiler": "EggInAction"
+  },
+ {
+    "name": "EggInAction  #8914",
+    "description": "EggInAction",
+    "image": "https://sungatt.github.io/sungat3/images/8914.png",
+    "dna": "f7c5e60a3bc6ff6bbdead3be4d0d18bbf5697805",
+    "edition": 8914,
+    "date": 1639733794020,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "black"
+      },
+      {
+        "trait_type": "suit",
+        "value": "tron"
+      },
+      {
+        "trait_type": "skin",
+        "value": "aano3"
+      },
+      {
+        "trait_type": "eye",
+        "value": "jun kita"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "anime"
+      }
+    ],
+    "compiler": "EggInAction"
+  },
+{
+    "name": "EggInAction  #10000",
+    "description": "EggInAction",
+    "image": "https://sungatrs.github.io/rs/images/10000.png",
+    "dna": "b55d33781fdbd9306990107741aa28f616f7be9f",
+    "edition": 10000,
+    "date": 1639735227372,
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "Light blue"
+      },
+      {
+        "trait_type": "suit",
+        "value": "Tron Evolution of Money TRX"
+      },
+      {
+        "trait_type": "skin",
+        "value": "simple"
+      },
+      {
+        "trait_type": "eye",
+        "value": "honoka nakano"
+      },
+      {
+        "trait_type": "mouth",
+        "value": "curious"
+      }
+    ],
+    "compiler": "EggInAction"
+  }
+]
