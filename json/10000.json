@@ -1,0 +1,31 @@
+{
+  "name": "EggInAction  #10000",
+  "description": "EggInAction",
+  "image": "https://Probit.app/metadata/10000.png",
+  "dna": "b55d33781fdbd9306990107741aa28f616f7be9f",
+  "edition": 10000,
+  "date": 1639735227372,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "suit",
+      "value": "Tron Evolution of Money TRX"
+    },
+    {
+      "trait_type": "skin",
+      "value": "simple"
+    },
+    {
+      "trait_type": "eye",
+      "value": "honoka nakano"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "curious"
+    }
+  ],
+  "compiler": "EggInAction"
+}
