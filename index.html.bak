@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Shelli Club - NFT Collection</title>
+  <meta name="description" content="Shelli Club - An NFT Collection for winners. Join Shelli Club and show-off your Shelli-persona.">
+  <meta name="keywords" content="Lionia Club, DApp, Decentralized application, NFT, Non-Fungible, Smart Contract, Blockchain, Community">
+  <link rel="icon" href="./lionia-club/assets/img/favicon.png">
+  <link rel="apple-touch-icon" href="./lionia-club/assets/img/apple-touch-icon.png">
+  <!-- open-graph -->
+  <meta property="og:type" content="website" />
+  <meta property="twitter:card" content="summary_large_image"/>
+  <meta property="og:site_name" content="Shelli Club" />
+  <meta property="og:title" content="Shelli Club- NFT Collection" />
+  <meta property="og:description" content="An NFT Collection for winners. Join Shelli Club and show-off your Shelli-persona. " />
+  <meta property="og:url" content="https://Shelli.Club" />
+  <meta property="og:image" content="./lionia-club/assets/img/opengraph/og-lionia-club-1.jpg" />
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <!-- dApp -->
+	<meta name="apple-mobile-web-app-capable" content="no"> 
+  <link rel="manifest" href="./lionia-club/manifest.json" />
+  <link rel="stylesheet" href="./lionia-club/config/theme.css" />
+
+  <link href="/static/css/main.b7fa62dc.chunk.css" rel="stylesheet">
+  <!-- Vendor CSS Files -->
+  <link href="./assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="./assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="./assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="./assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <!-- Style CSS File -->
+  <link href="./lionia-club/assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+  <!-- ======= Hero Section ======= -->
+  <section id="home">
+    <div class="hero-container">
+      <!-- <h1>Join Lionia Club</h1>
+      <h2>Lionia Club Members are available on OpenSea Marketplace. <br/>Visit the collection page on OpenSea to buy one.</h2>
+      <a class="btn-get-started" href="https://opensea.io/collection/lionia-club" rel="nofollow noopener" target="_blank">View on OpenSea</a> -->
+      <noscript>You need to enable JavaScript to run this app.</noscript>
+      <div id="minting-card"></div>
+     <noscript>You need to enable JavaScript to run this app.</noscript></section></div><div id="root"></div><script>!function(e){function r(r){for(var n,i,l=r[0],a=r[1],p=r[2],c=0,s=[];c<l.length;c++)i=l[c],Object.prototype.hasOwnProperty.call(o,i)&&o[i]&&s.push(o[i][0]),o[i]=0;for(n in a)Object.prototype.hasOwnProperty.call(a,n)&&(e[n]=a[n]);for(f&&f(r);s.length;)s.shift()();return u.push.apply(u,p||[]),t()}function t(){for(var e,r=0;r<u.length;r++){for(var t=u[r],n=!0,l=1;l<t.length;l++){var a=t[l];0!==o[a]&&(n=!1)}n&&(u.splice(r--,1),e=i(i.s=t[0]))}return e}var n={},o={1:0},u=[];function i(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,i),t.l=!0,t.exports}i.m=e,i.c=n,i.d=function(e,r,t){i.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},i.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.t=function(e,r){if(1&r&&(e=i(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(i.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var n in e)i.d(t,n,function(r){return e[r]}.bind(null,n));return t},i.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return i.d(r,"a",r),r},i.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},i.p="/";var l=this.webpackJsonphashlips_minting_card=this.webpackJsonphashlips_minting_card||[],a=l.push.bind(l);l.push=r,l=l.slice();for(var p=0;p<l.length;p++)r(l[p]);var f=a;t()}([])</script><script src="/static/js/2.a9b1306f.chunk.js"></script><script src="/static/js/main.5c40c8c3.chunk.js"></script>
+    </div>
+  </section><!-- End Hero -->
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center ">
+    <div class="container-fluid d-flex align-items-center justify-content-lg-between">
+      <h1 class="logo me-auto me-lg-0"><a href="index.html">Shelli Club</a></h1>
+      <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#home">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#our-goals">Goals</a></li> -->
+          <li><a class="nav-link scrollto" href="#roadmap">Roadmap</a></li>
+        
+          <!-- <li><a class="nav-link scrollto" href="#rarity">Rarity</a></li> -->
+       
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+      <div class="header-social-links d-flex align-items-center">
+        <a href="https://discord.com/invite/qYh8PDhArz" class="discord" rel="nofollow noopener" target="_blank"><i class="bi bi-discord"></i></a>
+        <a href="https://twitter.com/shelliclub" class="twitter" rel="nofollow noopener" target="_blank"><i class="bi bi-twitter"></i></a>
+        <a href="https://opensea.io/collection/shelliclub" class="opensea" rel="nofollow noopener" target="_blank"><i class="opensea-icon"></i></a>
+      </div>
+    </div>
+  </header><!-- End Header -->
+  <main id="main">
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+        <div class="section-title">
+          <h2>About</h2>
+        </div>
+        <div class="row content">
+          <div class="col-lg-6">
+            <p>
+            Shelli Club is a collection of 10,000 unique Shelli NFTs — unique digital collectibles, living on the Polygon blockchain.Created just for fun.
+            </p>
+            <p>
+          
+            </p>
+            <p>
+            Minting a Shelli NFT cost only 1 MATIC (~0.00077 ETH)*.
+            </p>
+            <p>
+            Giveaways Only for Our NFT Hodl:- 2000 Matic.
+            </p>
+          </div>
+         
+          </div>
+        </div>
+      </div>
+    </section><!-- End About Section -->
+    <!-- ======= Counts Section ======= -->
+    <!-- 
+    <section id="counts" class="counts">
+      <div class="container">
+        <div class="row counters">
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="10000" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Unique NFTs</p>
+          </div>
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="212" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Possible Traits</p>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Counts Section -->
+   
+      <!-- ======= Brands Section ======= -->
+      <div id="brands" class="brands section-bg">
+        <div class="container">
+          <div class="row  justify-content-center">
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/marketplaces/opensea.png" class="img-fluid" alt="">
+            </div>
+            <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+              <img src="assets/img/blockchains/polygon.png" class="img-fluid" alt="">
+            </div>
+           
+          </div>
+        </div>
+      </div><!-- End Brands Section -->
+    </section><!-- End Our Values Section -->
+    <!-- ======= Services Section ======= -->
+    <section id="roadmap" class="roadmap">
+      <div class="container">
+        <div class="section-title">
+          <h2>Roadmap</h2>
+        </div>
+        
+        <h2>No Roadmap Created just for fun</h2>
+        </div>
+      </div>
+    </section><!-- End Services Section -->
+   
+   
+   
+  
+         
+
+  </main><!-- End #main -->
+      <!-- ======= Cta Section ======= -->
+      <div id="cta" class="cta">
+        <div class="container">
+          <div class="text-center">
+            <h3>See the Collection on OpenSea</h3>
+            <p>To see the full list of NFTs in the Shelli Club Collection, visit the collection page on OpenSea.</p>
+            <a class="cta-btn" href="https://opensea.io/collection/shelliclub" rel="nofollow noopener" target="_blank">View on OpenSea</a>
+          </div>
+        </div>
+      </div><!-- End Cta Section -->
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row  justify-content-center">
+          <div class="col-lg-6">
+            <h3>Join shelliclub 's Online Community</h3>
+            <p>Follow and Join us on Social Media</p>
+          </div>
+        </div>
+        <!-- 
+        <div class="row footer-newsletter justify-content-center">
+          <div class="col-lg-6">
+            <form action="" method="post">
+              <input type="email" name="email" placeholder="Enter your Email"><input type="submit" value="Subscribe">
+            </form>
+          </div>
+        </div> 
+        -->
+        <div class="social-links">
+          <a href="https://discord.com/invite/qYh8PDhArz" class="discord" rel="nofollow noopener" target="_blank"><i class="bi bi-discord"></i></a>
+          <a href="https://twitter.com/shelliclub" class="twitter" rel="nofollow noopener" target="_blank"><i class="bi bi-twitter"></i></a>
+          
+          <!-- <a href="#" class="linkedin" rel="nofollow noopener" target="_blank"><i class="bi bi-linkedin"></i></a> -->
+        </div>
+      </div>
+    </div>
+    <div class="container footer-bottom clearfix">
+      <div class="copyright">
+        &copy; Copyright <strong><span><a href="index.html" rel="follow" target="_blank">shelli.club</a></span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        Designed by <a href="#"shelliclub</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+  <!-- <div id="preloader"></div> -->
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <!-- Custom JS Files -->
+  <script src="lionia-club/assets/js/main.js"></script>
+</body>
+</html>
