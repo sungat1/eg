@@ -435,25 +435,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#home {
-  width: 100%;
-  height: 100vh;
-  min-width: 300px;
-  min-height: 670px;
-  
-  position: relative;
-  margin-bottom: -70px;
-  text-shadow: 2px 2px 2px #180638;
-}
-@media (max-width: 992px) {
-  #home {
-    margin-bottom: -60px;
-    background: url(../img/lionia-club_cover.png) top right -190px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-attachment: fixed; */
-  }
-}
+
 #home:before {
   content: "";
   background: rgba(21, 5, 23, 0.5) linear-gradient(rgba(26, 0, 33, 0.5) 0%, rgba(236, 97, 93, 0.5) 100%) repeat scroll 0% 0%;
