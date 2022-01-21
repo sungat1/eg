@@ -440,10 +440,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   min-width: 300px;
   min-height: 670px;
-  background: url("../img/lionia-club_cover.png") top center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  /* background-attachment: fixed; */
+  
   position: relative;
   margin-bottom: -70px;
   text-shadow: 2px 2px 2px #180638;
